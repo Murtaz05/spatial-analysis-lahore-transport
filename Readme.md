@@ -8,7 +8,7 @@ To evaluate whether public transport infrastructure (bus stops) is equitably dis
 
     🚏 Bus Stop Data: Extracted from OpenStreetMap (OSM) via OSMnx.
 
-    🌍 Population Density: 2020 gridded raster data from WorldPop.
+    🌍 Population Density: 2020 gridded raster data from WorldPop. (https://data.worldpop.org/GIS/Population/Global_2000_2020/2020/PAK/pak_ppp_2020.tif)
 
     📍 Administrative Boundaries: Lahore boundary shapefile.
 
